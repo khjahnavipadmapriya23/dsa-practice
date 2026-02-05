@@ -8,9 +8,10 @@ This repository contains my practice on **Data Structures and Algorithms**, docu
 
 ## What’s included (so far)
 
-* Star patterns
-* Number patterns
-* Pyramid patterns
+* Star pattern
+* Number pattern
+* Pyramid pattern
+* Character pattern
 
 ## What will be added later
 
