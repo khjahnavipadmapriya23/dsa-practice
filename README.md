@@ -11,7 +11,6 @@ This repository contains my practice on **Data Structures and Algorithms**, docu
 * Star patterns
 * Number patterns
 * Pyramid patterns
-* Hollow patterns
 
 ## What will be added later
 
